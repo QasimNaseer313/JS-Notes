@@ -6,7 +6,7 @@ Shallow coopy
    cause the change in all refrenccce points
 Deep copy:
    It uses heap.in whih the properties DO NOT share
-    the same refrencce point.A change in one copy will
+    the same refrencce point but keep making new copies of the object.A change in one copy will
    NOT cause the change in all refrenccce points 
 
 SUMMARRY:
